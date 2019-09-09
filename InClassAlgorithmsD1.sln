@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InClassAlgorithmsD1", "InClassAlgorithmsD1\InClassAlgorithmsD1.csproj", "{6A8019BF-0017-4BEA-9B37-B66BF57EC35E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8019BF-0017-4BEA-9B37-B66BF57EC35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8019BF-0017-4BEA-9B37-B66BF57EC35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8019BF-0017-4BEA-9B37-B66BF57EC35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8019BF-0017-4BEA-9B37-B66BF57EC35E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D33D9FB-0A49-4DF6-A40E-AB0AF6C18163}
+	EndGlobalSection
+EndGlobal
